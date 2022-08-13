@@ -2,10 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"name": "AlgoTrading-1",
-			"path": "..\\AlgoTrading-1"
 		}
 	],
 	"settings": {}
